@@ -23,3 +23,6 @@ def plot():
         autor="La cátedra",
         figura=figura,
     )
+
+
+
